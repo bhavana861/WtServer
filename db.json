@@ -1,0 +1,32 @@
+{
+  "uploadWorkoutDetails": [
+    {
+      "id": "8d8c",
+      "workoutName": "yoga",
+      "datee": "2024-11-15",
+      "duration": "2",
+      "imgUrl": "https://media.istockphoto.com/id/500130316/photo/caucasian-woman-practicing-yoga-at-seashore.jpg?s=612x612&w=0&k=20&c=Zb9EkXhXFHelQJe9sXjTT0wcfOnsYpoo12g0vGACitQ="
+    },
+    {
+      "id": "a86d",
+      "workoutName": "Shoulder",
+      "datee": "2024-11-17",
+      "duration": "3",
+      "imgUrl": "https://www.stylecraze.com/wp-content/uploads/2014/09/Women-Doing-Shoulder-Exercise.jpg"
+    },
+    {
+      "id": "e86b",
+      "workoutName": "Biceps",
+      "datee": "2024-11-13",
+      "duration": "2",
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/97/36/74/360_F_297367440_rZ5jFIwM2cynkFPDPbZkN62Gj6VynLDU.jpg"
+    },
+    {
+      "workoutName": "Chest",
+      "datee": "2024-11-12",
+      "duration": "2.5",
+      "imgUrl": "https://www.nourishmovelove.com/wp-content/uploads/2021/06/chestlegsworkout.jpg",
+      "id": "bjqL52-"
+    }
+  ]
+}
